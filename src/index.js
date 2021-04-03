@@ -12,7 +12,7 @@ const items = [
     group: 1,
     title: 'item 1',
     start_time: moment(),
-    end_time: moment().add(1, 'hour')
+    end_time: moment().add(1, 'hour'),
   },
   {
     id: 2,
